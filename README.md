@@ -1,5 +1,7 @@
 属性拷贝工具
+=====================
 eg:
+
 TestBean testBean = new TestBean();
 testBean.setName("李雷");
 testBean.setAge(19);
