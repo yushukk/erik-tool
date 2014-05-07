@@ -1,5 +1,6 @@
 属性拷贝工具
 =====================
+test2
 eg:
 
 TestBean testBean = new TestBean();
